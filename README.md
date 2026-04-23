@@ -35,4 +35,4 @@ Utilizei tecnologias que permitem uma interface rica em detalhes e um carregamen
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/brunovini22/nome-do-seu-repositorio.git](https://github.com/brunovini22/nome-do-seu-repositorio.git)
+   git clone [https://github.com/brunovini22/Salao-de-Beleza.git](https://github.com/brunovini22/Salao-de-Beleza.git)
